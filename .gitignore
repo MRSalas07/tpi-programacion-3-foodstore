@@ -1,0 +1,12 @@
+# Dependencias, builds y secretos (no se entregan)
+node_modules/
+dist/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.tsbuildinfo
+.env
+*.db
+
+
